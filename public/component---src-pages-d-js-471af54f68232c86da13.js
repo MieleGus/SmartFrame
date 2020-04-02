@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{kCwQ:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),o=e.n(a);t.default=function(){return o.a.createElement("h1",null,"Mostrando display")}}}]);
+//# sourceMappingURL=component---src-pages-d-js-471af54f68232c86da13.js.map
